@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 06 14:05:10 CEST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0169-f289-c835-0000068ad050 
+on database directory /home/gabor/Dokumentumok/ProgramProjektek/NetbeansProjekt/NaptarEsemenyWithJdbcEmbaded_1.1/derbyDB with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Loaded from file:/home/gabor/Dokumentumok/ProgramProjektek/NetbeansProjekt/NaptarEsemenyWithJdbcEmbaded_1.1/lib/JAVADB_DRIVER_LABEL/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/gabor/Dokumentumok/ProgramProjektek/NetbeansProjekt/NaptarEsemenyWithJdbcEmbaded_1.1
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-47-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
